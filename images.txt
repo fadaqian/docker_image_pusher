@@ -7,4 +7,4 @@ xhofe/alist:latest
 nginx:1.18
 php:5.6-fpm
 mysql:5.6
-portainer-ce
+portainer
